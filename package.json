@@ -1,6 +1,6 @@
 {
-	"author": "Fabio Mussi",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Fabio Mussi",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
